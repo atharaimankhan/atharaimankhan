@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a CS Graduate, Developer, and kinda Silly Sometimes😅
+## I'm a Software Engineer, a Student and kinda Silly Sometimes😅
 <!-- 
 - 👀 I’m interested in Full Web Stack Development and just love learning new technology in General
 - 🌱 I’m currently learning Django Python Backend Framework
