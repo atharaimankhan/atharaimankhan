@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ## I'm a CS Graduate, Developer, and kinda Silly Sometimes😅
-
+<!-- 
 - 👀 I’m interested in Full Web Stack Development and just love learning new technology in General
 - 🌱 I’m currently learning Django Python Backend Framework
 - 💞️ I’m looking to collaborate on web projects using Django/Python as a backend technology
-- ⚡ Fun fact: I can do Beatboxing 😂
+- ⚡ Fun fact: I can do Beatboxing 😂 -->
 
 ### Connect with me:
 
