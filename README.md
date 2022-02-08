@@ -1,4 +1,4 @@
-### Hi there, I'm Athar 👋
+### Hi there 👋
 
 ## I'm a CS Graduate, Developer, and kinda Silly Sometimes😅
 
