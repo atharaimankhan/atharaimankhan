@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a Software Engineer, a Student and kinda Silly Sometimes😅
+## I'm a Software Engineer
 <!-- 
 - 👀 I’m interested in Full Web Stack Development and just love learning new technology in General
 - 🌱 I’m currently learning Django Python Backend Framework
